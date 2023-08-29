@@ -1,0 +1,4 @@
+matplotlib
+numpy
+tensorflow-addons
+tensorflow-model-optimization
